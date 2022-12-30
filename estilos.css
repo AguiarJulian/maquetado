@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#enc{
+    width: 1000px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: green;
+}
+#logo_enc {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    background-color: orange;
+    left: 10px;
+    top: 20px;
+}
+#titulo_enc {
+    width: 400px;
+    height: 60px;
+    position: absolute;
+    background-color: orangered;
+    left: 250px;
+    top: 20px;
+}
+#botones_enc {
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    background-color: brown;
+    right: 10px;
+    top: 20px;
+}
+
+#s1{
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: aquamarine;
+}
+#img_principal {
+    width: 800px;
+    height: 400px;
+    position: absolute;
+    background-color: pink;
+    left: 50px;
+    top: 40px;
+}   
+
+#s2{
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: blue;
+}
+
+#txt_s2 {
+    width: 350px;
+    height: 450px;
+    position: absolute;
+    background-color: yellow;
+    left: 80px;
+    top: 30px;
+}
+#img_s2 {
+    width: 350px;
+    height: 450px;
+    position: absolute;
+    background-color: lightcoral;
+    right: 80px;
+    top: 30px;
+}
+        
+#s3{
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: blueviolet;
+}
+#s4{
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: cadetblue;
+}
+#s5{
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: violet;
+}
+#pie{
+    width: 1000px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: red;
+}
+
+#enlaces_pag {
+    width: 500px;
+    height: 50px;
+    position: absolute;
+    background-color: white;
+    left: 50px;
+    top: 20px;
+}
